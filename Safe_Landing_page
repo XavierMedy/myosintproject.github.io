@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/style.css">
+    <title>FauxCorp Security Simulation</title>
+</head>
+<body>
+
+<div class="container">
+    <h2>FauxCorp Security Awareness Exercise</h2>
+    <p>This page is part of a controlled cybersecurity training simulation. Click below to continue the exercise.</p>
+
+    <a class="button" href="login.html">Continue Simulation</a>
+
+    <p class="disclaimer">This is a fictional company and a simulated environment used for academic training only.</p>
+</div>
+
+</body>
+</html>
