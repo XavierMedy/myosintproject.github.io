@@ -1,7 +1,7 @@
 # Tech Relations for the Future
 
-**Tech Relations for the Future (TRF)** is a cloud-security and data-integration consultancy helping mid-size organizations modernize their infrastructure.  
-We specialize in **secure edge computing**, **distributed identity management**, and **zero-trust architecture enablement**.
+**Tech Relations for the Future (TRF)** is a cloud security and data integration consultancy helping organizations modernize their infrastructure.  
+We specialize in secure edge computing, distributed identity management, and zero-trust architecture enablement.
 
 Founded in 2025 and headquartered in MoonLand, we combine engineering expertise with a people-centered approach to cybersecurity advisory services.
 
@@ -27,25 +27,6 @@ Department contact addresses:
 - security@trfuture.com  
 - engineering@trfuture.com  
 - finance@trfuture.com  
-
-
-
-Additional Company Information
-
-The repository also contains:
-
-Team Directory
-A list of employees with roles and internal contact information.
-
-Organization Structure
-A breakdown of departments and reporting hierarchy.
-
-Public Documents
-Located in `/assets/docs/`, including:
-
-- Policy PDFs  
-- Company overview  
-- Public-facing materials  
 
 
 Contact Information:
